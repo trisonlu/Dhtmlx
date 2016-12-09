@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+	background-color: #fff;
+}
+
+img {
+    border: 0px;
+    vertical-align: middle;
+}
+
+
+
+table {
+    font-family: "宋体", Arial, Helvetica, sans-serif;
+    font-size: 9pt;
+}
+
+.button {
+    background-color: #DAE4EF;
+    border: 1px solid #396086;
+    cursor: pointer;
+    border: #7b9ebd 1px solid;
+    padding: 2px;
+    font-size: 12px;
+}
+/*************** 数据表格基本样式 ***************/
+.table_data {
+    width:100%;
+    background-color: #fff;
+    height:28px;
+    line-height:28px;
+}
+.table_data tr{ margin:0;padding:0;background-color:#f5faff;}
+
+.table_data .td {
+    color: #000;
+    height:28px;
+    line-height:28px;
+    margin:0;
+    padding:0;
+}
+
+.table_data .td_search_txt {
+    font-size: 12px;
+    word-break: keep-all;
+    width:120px;
+    padding-left:8px;
+    margin:0;
+    padding-top:0;
+    text-align:right;
+    
+}
+.table_data .td_search {
+    text-align: left;
+    padding-top: 2px;
+    padding-left:5px;
+    width:100px;
+}
+.table_data .td_input {
+    text-align: left;
+    padding-top: 1px;
+    padding-left:5px;
+    vertical-align: middle;
+    width:200px;
+}
+
+
+
+
